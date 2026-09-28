@@ -1,5 +1,7 @@
 # ZhuaTech Synthetic Data｜企业 AI 合成数据平台
 
+[简体中文](README.md) | [English](README.en.md)
+
 由 **[知华科技（上海如静知华信息科技有限公司）](https://www.zhuatech.cn/)** 发布，面向 AI 训练、软件测试和数据演示生成不依赖真实个人信息的数据集。
 
 ## 主要功能不是预留
