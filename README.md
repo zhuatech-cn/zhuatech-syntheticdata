@@ -36,3 +36,11 @@ AI 数据治理、测试数据平台和私有化开发请联系[知华科技](ht
 ## 合成数据隐私与效用发布门禁
 
 新增 `POST /api/synthetic-data/release-evaluation`，同时评估 k-匿名、成员推断攻击优势、训练样本最近邻距离、直接标识、业务效用、Schema 覆盖、隐私审批和职责分离，输出 `RELEASE / REVIEW / BLOCKED`，并要求发布数据卡和指标快照。
+
+## 微信咨询
+
+商业授权、私有化部署或深度定制开发，可扫描下方二维码添加微信 `zhuatech` 或 `zhuatech2` 咨询。
+
+| 微信 zhuatech | 微信 zhuatech2 |
+| --- | --- |
+| ![知华科技微信咨询 zhuatech](docs/images/zhuatech-wechat-consulting.png) | ![知华科技微信咨询 zhuatech2](docs/images/zhuatech-wechat-consulting-2.png) |
